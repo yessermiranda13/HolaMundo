@@ -15,8 +15,6 @@ namespace HolaMundo
             Console.WriteLine("Hola Mundo!");
             Console.WriteLine("Aqui estuvo su mero papa");
            
-            Console.writeLine("Aqui estuvo Francisco el polla de oro");
-           
         }
     }
 }
